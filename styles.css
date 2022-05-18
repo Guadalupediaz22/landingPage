@@ -1,0 +1,87 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.nav-bar {
+  background-color: #2f8f9d;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-bar-links {
+  margin: 0 10px;
+  color: black;
+  text-decoration: none;
+  border-bottom: transparent 2px solid;
+  font-size: 1.2rem;
+}
+
+.caja-primaria {
+  background-color: #b3e8e5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 8rem;
+}
+
+.botones {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+
+.btn {
+  background-color: #2f8f9d;
+  border-radius: 5px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+header {
+  background: url(scott-graham-5fNmWej4tAA-unsplash.jpg);
+  background-size: cover;
+  background-position: center 0;
+  background-repeat: no-repeat;
+}
+
+.div-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+  font-size: 2rem;
+}
+
+.iconos {
+  padding: 60px;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  float: left;
+  text-align: center;
+}
+
+.redes {
+  background-color: #2f8f9d;
+}
+
+.primera-linea {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.tablet {
+  width: 28%;
+  margin-left: 3rem;
+}
+
+.icon-redes {
+  width: 8%;
+  padding: 10px;
+}
+
+/*# sourceMappingURL=styles.css.map */
